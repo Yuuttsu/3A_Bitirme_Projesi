@@ -1,6 +1,6 @@
 # Flutter C2C Marketplace App
 
-This project is my **University Graduation Project (Bitirme Projesi)**.  
+This project is my  **University Graduation Project (Bitirme Projesi)**.  
 It is a Letgo-style Customer-to-Customer (C2C) marketplace mobile application built with **Flutter** and **Dart**.  
 
 ## Features
